@@ -1,4 +1,6 @@
 # gcore-sfs-controller
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fdemetristsadiotis%2Fgcore-sfs-controller.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fdemetristsadiotis%2Fgcore-sfs-controller?ref=badge_shield)
+
 This controller watches for nfs file shares in Gcore Cloud project and deploy storage classes and provisioner controller for each of them
 
 ## Description
@@ -75,3 +77,7 @@ make manifests
 **NOTE:** Run `make --help` for more information on all potential `make` targets
 
 More information can be found via the [Kubebuilder Documentation](https://book.kubebuilder.io/introduction.html)
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fdemetristsadiotis%2Fgcore-sfs-controller.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fdemetristsadiotis%2Fgcore-sfs-controller?ref=badge_large)
